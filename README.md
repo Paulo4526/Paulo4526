@@ -2,7 +2,11 @@
 
 **`Desenvolvedor FullStack`**
 
-Atualmente em transição de carreira, estou me dedicando intensamente ao estudo e desenvolvimento de habilidades na área de tecnologia. Tenho me aprofundado no ecossistema FullStack, explorando linguagens, frameworks e ferramentas modernas. Meu objetivo é conquistar minha primeira oportunidade profissional como desenvolvedor, colocando em prática tudo o que venho aprendendo e contribuindo com soluções de qualidade para projetos e equipes de desenvolvimento. Abaixo estão algumas das tecnologias que estou estudando e me aprimorando com as quais venho realizando projetos e desafios práticos.
+Atualmente em transição de carreira, estou focado no desenvolvimento de habilidades na área de tecnologia, com o objetivo de conquistar minha primeira oportunidade como desenvolvedor. Tenho me dedicado ao estudo contínuo de linguagens, frameworks e ferramentas modernas do ecossistema FullStack, sempre buscando colocar em prática o que aprendo através de projetos, desafios e experimentações.
+
+Além do desenvolvimento de software, venho me aprofundando no universo das automações no-code/low-code, utilizando ferramentas como N8N, ManyChat, Airtable e OpenAI para criar fluxos inteligentes, integrações e soluções que ampliam meu conhecimento em lógica, APIs e arquitetura de software.
+
+Abaixo, estão algumas das tecnologias que venho estudando e aplicando para fortalecer minhas habilidades e contribuir de forma criativa e eficiente em futuros projetos.
 
 ---
 
