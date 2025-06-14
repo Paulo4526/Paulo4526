@@ -12,15 +12,6 @@
     title="HTML" 
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="50px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
@@ -57,6 +48,15 @@
     title="HTML" 
     width="50px" 
     style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 
@@ -77,6 +77,143 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="" 
+/>
+
+
 <br/>
 <br/>
 
