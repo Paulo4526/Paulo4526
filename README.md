@@ -20,36 +20,37 @@
 
 <h2>📈 Nível de Conhecimento:</h2>
 
-<table>
-  <tr>
-    <th align="left">Tecnologia</th>
-    <th align="left">Nível</th>
-  </tr>
-  <tr>
-    <td>🐍 Python</td>
-    <td>🟦🟦🟦🟦🟦 (5/5)</td>
-  </tr>
-  <tr>
-    <td>☕ Java</td>
-    <td>🟦🟦🟦🟦⬜ (4/5)</td>
-  </tr>
-  <tr>
-    <td>🌐 JavaScript</td>
-    <td>🟦🟦🟦⬜⬜ (3/5)</td>
-  </tr>
-  <tr>
-    <td>🎨 HTML &amp; CSS</td>
-    <td>🟦🟦🟦🟦⬜ (4/5)</td>
-  </tr>
-  <tr>
-    <td>🗄️ SQL / PostgreSQL</td>
-    <td>🟦🟦🟦⬜⬜ (3/5)</td>
-  </tr>
-  <tr>
-    <td>🐳 Docker</td>
-    <td>🟦🟦⬜⬜⬜ (2/5)</td>
-  </tr>
-</table>
+<div style="max-width:600px;">
+  <p>🐍 Python</p>
+  <div style="background-color:#ddd; border-radius:10px;">
+    <div style="width:100%; background:linear-gradient(90deg, #4CAF50, #45A049); padding:5px; border-radius:10px; text-align:center; color:white;">5 / 5</div>
+  </div>
+
+  <p>☕ Java</p>
+  <div style="background-color:#ddd; border-radius:10px;">
+    <div style="width:80%; background:linear-gradient(90deg, #2196F3, #1976D2); padding:5px; border-radius:10px; text-align:center; color:white;">4 / 5</div>
+  </div>
+
+  <p>🌐 JavaScript</p>
+  <div style="background-color:#ddd; border-radius:10px;">
+    <div style="width:60%; background:linear-gradient(90deg, #FF9800, #F57C00); padding:5px; border-radius:10px; text-align:center; color:white;">3 / 5</div>
+  </div>
+
+  <p>🎨 HTML &amp; CSS</p>
+  <div style="background-color:#ddd; border-radius:10px;">
+    <div style="width:80%; background:linear-gradient(90deg, #FF5722, #E64A19); padding:5px; border-radius:10px; text-align:center; color:white;">4 / 5</div>
+  </div>
+
+  <p>🗄️ SQL / PostgreSQL</p>
+  <div style="background-color:#ddd; border-radius:10px;">
+    <div style="width:60%; background:linear-gradient(90deg, #9C27B0, #7B1FA2); padding:5px; border-radius:10px; text-align:center; color:white;">3 / 5</div>
+  </div>
+
+  <p>🐳 Docker</p>
+  <div style="background-color:#ddd; border-radius:10px;">
+    <div style="width:40%; background:linear-gradient(90deg, #00BCD4, #0097A7); padding:5px; border-radius:10px; text-align:center; color:white;">2 / 5</div>
+  </div>
+</div>
 
 <hr>
 
