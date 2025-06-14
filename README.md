@@ -132,6 +132,9 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<br clear="left" />
+<br>
+
 <img 
   align="left" 
   alt="Postman" 
