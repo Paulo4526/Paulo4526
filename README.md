@@ -120,6 +120,8 @@ Abaixo estão algumas das tecnologias que venho estudando, aplicando em projetos
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" 
 />
 
+<br><br>
+
 <img 
   align="left" 
   alt="Kafka" 
@@ -137,8 +139,6 @@ Abaixo estão algumas das tecnologias que venho estudando, aplicando em projetos
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<br><br>
 
 <img 
   align="left" 
