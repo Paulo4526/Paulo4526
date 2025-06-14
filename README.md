@@ -48,7 +48,7 @@
 
   <p>🐳 Docker</p>
   <div style="background-color:#ddd; border-radius:10px;">
-    <div style="width:40%; background:linear-gradient(90deg, #00BCD4, #0097A7); padding:5px; border-radius:10px; text-align:center; color:white;">2 / 5</div>
+    <progress id="file" value="32" max="100"> 32% </progress>
   </div>
 </div>
 
