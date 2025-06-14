@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Como estudante e apaixonado por desenvolvimento FullStack, estou sempre explorando novas ferramentas, linguagens e frameworks que me ajudam a evoluir como programador. Abaixo estão algumas das tecnologias que venho estudando, praticando e aplicando em projetos acadêmicos, pessoais e de aprendizado contínuo. Estou em constante desenvolvimento, buscando me tornar cada vez mais completo como profissional de tecnologia.
+Atualmente em transição de carreira, estou me dedicando intensamente ao estudo e desenvolvimento de habilidades na área de tecnologia. Tenho me aprofundado no ecossistema FullStack, explorando linguagens, frameworks e ferramentas modernas. Meu objetivo é conquistar minha primeira oportunidade profissional como desenvolvedor, colocando em prática tudo o que venho aprendendo e contribuindo com soluções de qualidade para projetos e equipes de desenvolvimento. Abaixo estão algumas das tecnologias que estou estudando e me aprimorando com as quais venho realizando projetos e desafios práticos.
 
 ---
 
