@@ -51,15 +51,12 @@ Abaixo estão algumas das tecnologias que venho estudando, aplicando em projetos
     src="https://github-readme-stats.vercel.app/api?username=Paulo4526&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     alt="GitHub Stats" 
     height="200"
-    widith="400"
-    style="display:inline-block; margin-right: 10px;"
   />
 
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo4526&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
     alt="Top Languages" 
     height="200"
-    style="display:inline-block;"
   />
 </p>
 
