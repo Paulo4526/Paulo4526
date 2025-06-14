@@ -63,13 +63,18 @@ Abaixo estão algumas das tecnologias que venho estudando, aplicando em projetos
 
 <hr>
 
-<h2>🌱 Próximos Passos</h2>
+<h2>📚 Áreas de Estudo e Aprimoramento</h2>
 
 <ul>
-  <li>Aprofundar em arquitetura de microsserviços</li>
-  <li>Práticas de CI/CD com Azure DevOps e GitHub Actions</li>
-  <li>Estudos avançados em cloud computing (AWS e Azure)</li>
-  <li>Desenvolvimento de APIs Rest e GraphQL</li>
+  <li><strong>Python:</strong> Foco atual em automações de tarefas e processos.</li>
+  <li><strong>NoCode / LowCode:</strong> Explorando ferramentas como <strong>N8N</strong> e <strong>ManyChat</strong> para integrações e fluxos automatizados.</li>
+</ul>
+
+<h2>🔮 Futuro Próximo: Estudos Planejados</h2>
+
+<ul>
+  <li><strong>Python:</strong> Análise de Dados e Desenvolvimento Web com frameworks como Flask ou Django.</li>
+  <li><strong>Java:</strong> Implementações envolvendo envio de e-mails via SMTP e integrações com sistemas de pagamento.</li>
 </ul>
 
 <p align="center"><strong>🔗 Obrigado por visitar meu portfólio! 🚀</strong></p>
