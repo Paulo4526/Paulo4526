@@ -77,4 +77,6 @@ Abaixo estão algumas das tecnologias que venho estudando, aplicando em projetos
   <li><strong>Java:</strong> Implementações envolvendo envio de e-mails via SMTP e integrações com sistemas de pagamento.</li>
 </ul>
 
+<br><br>
+
 <p align="center"><strong>🔗 Obrigado por visitar meu portfólio! 🚀</strong></p>
