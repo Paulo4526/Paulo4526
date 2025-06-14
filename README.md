@@ -48,7 +48,7 @@
 
   <p>🐳 Docker</p>
   <div style="background-color:#ddd; border-radius:10px;">
-    <progress id="file" value="32" max="100"> 32% </progress>
+    <progress value="32" max="100"></progress>
   </div>
 </div>
 
