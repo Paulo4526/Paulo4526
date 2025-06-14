@@ -2,6 +2,8 @@
 
 **`Desenvolvedor FullStack`**
 
+Como estudante e apaixonado por desenvolvimento FullStack, estou sempre explorando novas ferramentas, linguagens e frameworks que me ajudam a evoluir como programador. Abaixo estão algumas das tecnologias que venho estudando, praticando e aplicando em projetos acadêmicos, pessoais e de aprendizado contínuo. Estou em constante desenvolvimento, buscando me tornar cada vez mais completo como profissional de tecnologia.
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
