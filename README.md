@@ -66,7 +66,7 @@ Abaixo estão algumas das tecnologias que venho estudando, aplicando em projetos
 <h2>📚 Áreas de Estudo e Aprimoramento</h2>
 
 <ul>
-  <li><strong>Python:</strong> Foco atual em automações de tarefas e processos.</li>
+  <li><strong>Python:</strong> Foco atual em Desenvolver uma aplicação FullCycle em Java, desde a modelagem do banco e levantamento de requisitos, back-end integrado ao banco de dados, integração de back-end e front-end, até a análise de uso da aplicação para deploy em nuvem.</li>
   <li><strong>NoCode / LowCode:</strong> Explorando ferramentas como <strong>N8N</strong> e <strong>ManyChat</strong> para integrações e fluxos automatizados.</li>
 </ul>
 
