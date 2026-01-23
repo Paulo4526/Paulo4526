@@ -3,7 +3,9 @@
 <h3 align="center"><code>Desenvolvedor FullStack</code></h3>
 
 <p>
-Sou formado em Análise e Desenvolvimento de Sistemas pela FIAP e atualmente estou em transição de carreira para a área de desenvolvimento de software. Tenho me dedicado de forma intensa ao estudo de tecnologias voltadas para o desenvolvimento FullStack, explorando linguagens, frameworks e ferramentas modernas tendo maior conhecimento em Java, com o objetivo de conquistar minha primeira oportunidade profissional como desenvolvedor.
+Desenvolvedor Java com experiência em Desenvolvimento de Software, atuando principalmente com arquitetura de microsserviços utilizando o Spring Framework.
+
+Possuo sólida experiência no design e implementação de APIs REST, bem como no uso de bancos de dados relacionais (Oracle, MySQL e PostgreSQL) e NoSQL (MongoDB e DynamoDB). Tenho prática com Docker para criação de imagens e containerização de aplicações, além de utilizar Gitflow como estratégia de versionamento e boas práticas de CI/CD, com integrações em ambientes de nuvem como Azure e AWS.
 </p>
 
 <p>
